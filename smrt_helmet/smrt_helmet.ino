@@ -1,4 +1,4 @@
-
+//inno setup script 
 #include <dht.h>
 dht melani;
 //temp sensor
